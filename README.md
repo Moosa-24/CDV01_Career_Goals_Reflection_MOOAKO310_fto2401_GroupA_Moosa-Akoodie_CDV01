@@ -1,84 +1,83 @@
-
-# Career Goals Reflection Template
-
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
-
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Moosa Akoodie
+- **Date:** 04/03/3034
+- **Current Role/Position:** CodeSpace student
+- **Field of Interest:** Software Development
 
-### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
+
+    - Always meet deadlines.
+    - Good social skills.
+    - Good technical skills.
+    - Dedication is my driving factor.
+    - i only need to improve on time management.
+  
+      
+3. **Interests and Values**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
-2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Key interests related to my career would be ever-improving tech world.
+    - important values to me in a work environment are  dedication, respect, honesty, and accountability.
+
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
+   
+    - I've researched on mainly front-end dev.
+    - Ai peaked my interest for a bit.
+  
+
+3. **Alignment with Personal Profile**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
-2. **Alignment with Personal Profile**:
-    
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - the front-end dev role aligns with my technical skills, as well as interests.
+    - I need to do more job searching to find out what people are looking for from me as their worker, I will do that when i am actually looking for a job(studying full time at the moment)
+
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
-2. **Long-term Goals** (3-5 years and beyond):
+    - Finish and pass my software dev and java courses
+     Rationale:  Can't get a job that easily without certificates/qualifications
+
+    - Acquire a job
+      Rationale: Need money to live according to my life goals
+
+      
+1. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - Grow job-wise and salary-wise **within** the company I am working for.
+    - this aligns with my interests of constant improvement because I despise stagnancy.
+
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Study hard.
+    - Fix my time-management issue before the end of this year(already in action and going as planned).
+
+
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Make my github look better over time.
+    - Work on soft skills such as communication more.
+    - Add my Regent business school certificates to my cv.
+
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - ADHD paralysis and impulsiveness
+      The first step to change is knowing what to change.
+      
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
-
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
+    - Networking with fellow students can continue into real life out of college and we can assist each other when in need of help, literally forever.
+    - Ask my code coach if he's willing to be my mentor because he seems to be a lot like me
 - Note this reflection Template is a guide to help prompt your reflections in each section.
 - You will fill in your reflections for each seciton under Parts 1 to 5.
 - Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
